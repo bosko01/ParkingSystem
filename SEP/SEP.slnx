@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Bank.API/Bank.API.csproj" />
+  <Project Path="Parking.API/Parking.API.csproj" />
+  <Project Path="PSP.API/PSP.API.csproj" />
+  <Project Path="SEP.Contracts/SEP.Contracts.csproj" />
+</Solution>
